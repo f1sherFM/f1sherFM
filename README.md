@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @f1sherFM
 - 👀 I'm a novice IT specialist
-- 🌱 I'm Studying Python (maybe C#, JS(very bad))
+- 🌱 I'm Studying Python 
 - 💞️ Maybe there will be collabs with people like me
 - 📫 I'm starting to log in to GitHub
 
