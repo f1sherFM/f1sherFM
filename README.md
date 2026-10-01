@@ -39,7 +39,7 @@ from a team working on information systems.
 
 ## 🏆 Achievements
 
-- Participated and won in multiple programming competitions and tech events
+- Won award at multiple programming competitions and tech events
 - Continuously expanding my knowledge in backend development and cloud technologies
 
 ## 📫 Let's Connect!
