@@ -1,10 +1,24 @@
 # Hi there, I'm Kirill! 👋
 
-Welcome to my GitHub profile! I'm a passionate Python developer who loves building scalable web applications and exploring new technologies.
+Welcome to my GitHub profile! I'm a Python backend developer
+and an Information Systems and Programming student.
+I'm currently exploring systems analysis alongside my technical background.
 
 ## 🚀 About Me
 
-I've been actively programming in Python since 2024, with my journey starting back in 2023. I enjoy participating in coding competitions and tech events, where I've had the opportunity to win several challenges and connect with fellow developers.
+I've been actively programming in Python since 2024, with my journey
+starting back in 2023. I enjoy participating in coding competitions
+and tech events, where I've had the opportunity to win several
+challenges and connect with fellow developers.
+
+## 🔎 Current Focus
+
+I'm learning systems analysis: working with requirements, business
+processes, data models, and API contracts. My backend experience
+helps me understand how these decisions affect implementation.
+
+I'm looking for a college internship in March 2027 where I can learn
+from a team working on information systems.
 
 ## 💻 Tech Stack
 
