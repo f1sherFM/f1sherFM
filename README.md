@@ -13,12 +13,12 @@ challenges and connect with fellow developers.
 
 ## 🔎 Current Focus
 
-I'm learning systems analysis: working with requirements, business
-processes, data models, and API contracts. My backend experience
-helps me understand how these decisions affect implementation.
+I'm currently studying systems analysis, with a focus on requirements,
+business processes, data models, and API design. My background in
+backend development helps me connect these topics with implementation.
 
 I'm looking for a college internship in March 2027 where I can learn
-from a team working on information systems.
+from an experienced team and contribute to work on information systems.
 
 ## 💻 Tech Stack
 
