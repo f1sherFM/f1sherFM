@@ -36,30 +36,28 @@ My goal is to become a well-rounded software engineer who can understand a probl
 ## 💻 Tech Stack
 
 **Languages & Frameworks**
-
 - Python
 - FastAPI
 - Flask
 
 **Databases & Caching**
-
 - PostgreSQL
 - MySQL
 - Redis
 
 **Infrastructure & Development Tools**
-
 - Docker
-- Kubernetes
 - CI/CD
 - Git & GitHub
 
 **Systems Analysis**
-
 - BPMN & UML
 - Requirements Engineering
 - Data Modeling
 - API Design & Documentation
+
+### 📚 Currently Learning
+- Kubernetes (K8s)
 
 ## 🏆 Achievements
 
